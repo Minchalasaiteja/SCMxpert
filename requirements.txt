@@ -1,0 +1,14 @@
+fastapi
+jinja2
+starlette
+pymongo
+passlib
+requests
+python-dotenv
+pydantic
+kafka-python
+PyJWT
+uvicorn
+itsdangerous
+python-multipart
+python-jose
